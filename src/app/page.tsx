@@ -33,7 +33,7 @@ export default function Home() {
             </a>
           </li>
           <li>
-            <a href="github.com/sergimula" className="text-dark-chocolate hover:text-chocolate">
+            <a href="https://github.com/sergimula" className="text-dark-chocolate hover:text-chocolate">
               <GitHubIcon />
             </a>
           </li>
